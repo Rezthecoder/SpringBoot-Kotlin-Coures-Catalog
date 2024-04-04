@@ -1,1 +1,1 @@
-# SpringBoot-Kotlin-Coures-Catalog
+# SpringBoot-Kotlin-Courses-Catalog
